@@ -43,7 +43,7 @@
 | *Backend Magic*  | Flask · FastAPI · LangChain · AES-256 · Firebase            | Secure APIs · Agent flows · Clean data ops   |
 | *Frontend Craft* | React · Flutter · Tailwind · Chart.js · html2pdf.js         | Mobile-first UIs · PDF reports · Live charts |
 | *Smart Systems*  | OpenCV · NetworkX · Twilio · OCR · CSV/ECG Processing       | Scene graphs · Medical alerting · Real-time AI |
-| *Dev & Deploy*   | GCP · Docker · GitHub Actions · Streamlit · Gradio          | Cloud-ready builds · Fast CI/CD · Auto-hosted apps |
+| *Dev & Deploy*   | GCP · GitHub Actions · Streamlit · Gradio          | Cloud-ready builds · Fast CI/CD · Auto-hosted apps |
 
 
 ---
