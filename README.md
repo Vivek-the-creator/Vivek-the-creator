@@ -37,57 +37,28 @@
 
 ## 💻 Skill Fusion
 
-| Domain           | Tools & Frameworks                                          | What I Bring to the Table                    |
-|------------------|-------------------------------------------------------------|----------------------------------------------|
-| *Applied AI*     | YOLOv5 · Transformers · Gemini Pro Vision · BERT · Tesseract | Multimodal AI · OCR pipelines · Visual AI    |
-| *Backend Magic*  | Flask · FastAPI · LangChain · AES-256 · Firebase            | Secure APIs · Agent flows · Clean data ops   |
-| *Frontend Craft* | React · Flutter · Tailwind · Chart.js · html2pdf.js         | Mobile-first UIs · PDF reports · Live charts |
-| *Smart Systems*  | OpenCV · NetworkX · Twilio · OCR · CSV/ECG Processing       | Scene graphs · Medical alerting · Real-time AI |
-| *Dev & Deploy*   | GCP · GitHub Actions · Streamlit · Gradio          | Cloud-ready builds · Fast CI/CD · Auto-hosted apps |
+| Domain           | Tools & Frameworks                                    |
+|------------------|-------------------------------------------------------|
+| *Applied AI*     | YOLOv5 · Gemini Pro Vision · Tesseract · ML Toolkit|
+| *Frontend Craft* | React · Flutter · HTML · CSS · Javascript · kotlin |
+| *Smart Systems*  | OpenCV · OCR · CSV/ECG Processing       |
+| *Dev & Deploy*   | GitHub Actions · Streamlit · Gradio     |
 
 
 ---
 
-## 🔄 Build → Measure → Learn
 
-1. *Observe* – trace invisible patterns in real-world problems.  
-2. *Prototype* – breathe life into ideas within 48 hours.  
-3. *Test* – ship fast, learn faster through real usage.  
-4. *Refine* – shape experiences based on feedback loops.  
-5. *Scale* – solidify systems, sprinkle in AI superpowers.
-
-Repeat. Reflect. Reimagine.
-
----
-
-## 📝 Poet's Console
+## 📝 Poet's Console & Wanderlust Wiring
 
 Poetry in Tamil keeps me grounded — where lines become logic, and metaphors mirror memory.
+New places reboot my mind — they give fresh eyes to old problems.
 
-- I write verses that carry silence.  
-- Code and couplets coexist in my world.  
+- I write verses that carry silence.
+- Travel inspires interface decisions and data flow. 
 - From Sangam to software — rhythm is everywhere.
 
 ---
 
-## 🧭 Wanderlust Wiring
-
-New places reboot my mind — they give fresh eyes to old problems.
-
-- I collect stories, not just coordinates.  
-- Travel inspires interface decisions and data flow.  
-- The road is my sandbox — where ideas download naturally.
-
----
-
-## 🚗 Under‑the‑Hood Corner
-
-- Love tinkering with ECU maps and data traces  
-- Explored FFT-based exhaust signature matching  
-- Dream build: AWD EV with ML-based traction control  
-- Where hardware meets high-level logic
-
----
 
 ## 📈 GitHub Stats
 
