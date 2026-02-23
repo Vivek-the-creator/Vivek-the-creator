@@ -7,113 +7,62 @@
 <h1 align="center">Hey, I'm Vivek K K 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFC2&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Tech+Builder+%7C+Poet+%7C+Wanderlust;Engineer+of+Intelligence%2C+Not+Just+Code.;Designing+for+Impact%2C+Not+Just+Demos.;AI+Tinkerer+%7C+Vision+Builder+%7C+Dream+Executor.;From+Flask+to+YOLO%2C+Everything+has+a+Purpose.;Every+idea+starts+crazy.+I+just+don%E2%80%99t+stop+at+the+crazy+part.;Let%E2%80%99s+Make+Tech+that+Matters." alt="Typing SVG animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Tech+Builder+%7C+Poet+%7C+Wanderlust;Engineer+of+Intelligence%2C+Not+Just+Code.;Designing+for+Impact%2C+Not+Just+Demos.;AI+Tinkerer+%7C+Vision+Builder+%7C+Dream+Executor.;From+Flask+to+YOLO%2C+Everything+has+a+Purpose.;Every+idea+starts+crazy.+I+just+don%E2%80%99t+stop+at+the+crazy+part.;Let%E2%80%99s+Make+Tech+that+Matters." alt="Typing SVG animation" />
 </p>
 
 
 ---
 
-## 🚀 Tech I'm Empowering
+- 💻 Full Stack Developer crafting end-to-end applications
 
-- *OXOCARE (🏆 Hackathon Winner)* – OCR-first vault that secures & summarizes medical records with AI.  
-  `OpenCV · Tesseract · LangChain · AES-256 · Flask`
-  
-- *Verve* – AI-powered mobile assistant helping chronic-illness warriors manage meds & vitals.  
-  `Flutter · FastAPI · Transformers · LangChain`
+- 🤖 Machine Learning Developer turning data into intelligence
 
-- *Zephyra* –  Scene-aware AI that detects objects, captions environments, and maps visual relationships like a human observer.
-  `YOLOv5 · GPT-4 Vision · NetworkX · OpenCV · Flask`
-  
-- *Cardiac‑Care* – Heart‑health suite featuring ECG ML, triage chatbot, and real‑time alerts.  
-  `React · Flask · TensorFlow · Twilio`
+- 🎯 Focused on performance, scalability, and impact
 
-- *AI Medical Report Summarizer* – Upload PDFs/images → receive concise AI‑generated summaries.  
-  `OCR · HuggingFace · Flask · BERT`
+<!--
+	
+### 🛠 &nbsp;Languages and Tools
 
-
-
-
----
-
-## 💻 Skill Fusion
-
-| Domain           | Tools & Frameworks                                    |
-|------------------|-------------------------------------------------------|
-| *Applied AI*     | YOLOv5 · Gemini Pro Vision · Tesseract · ML Toolkit|
-| *Frontend Craft* | React · Flutter · HTML · CSS · Javascript · kotlin |
-| *Smart Systems*  | OpenCV · OCR · CSV/ECG Processing       |
-| *Dev & Deploy*   | GitHub Actions · Streamlit · Gradio     |
-
-
----
-
-
-## 📝 Poet's Console & Wanderlust Wiring
-
-Poetry in Tamil keeps me grounded — where lines become logic, and metaphors mirror memory.
-New places reboot my mind — they give fresh eyes to old problems.
-
-- I write verses that carry silence.
-- Travel inspires interface decisions and data flow. 
-- From Sangam to software — rhythm is everywhere.
-
----
-
-
-## 📈 GitHub Stats
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
+<br/>
+-->
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-the-creator&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=Vivek-the-creator&theme=radical&hide_border=true" height="180" />
-  
-  
-
+<a href="https://github.com/Vivek-the-creator">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vivek-the-creator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vivek-the-creator&layout=compact&langs_count=8&theme=algolia&bg_color=000000"/>
+</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-the-creator&layout=compact&theme=radical&langs_count=10" />
+### 🤝 &nbsp;Connect with Me
 
-  
-
+<p>
+<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/vivek-k-k/"><img src="https://img.shields.io/badge/-Vivek-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kevivark0789@gmail.com"><img src="https://img.shields.io/badge/-kevivark0789@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/itz.vikshu_07/"><img src="https://img.shields.io/badge/-@itz.vikshu_07-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-
-
-
-
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:vivek.kk2024aiml@sece.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/vivek-k-k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-  <a href="https://leetcode.com/u/hS7hj4nFVU/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/vivek_kk2024aiml">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-
-</p>
-
----
-
-## 🧠 My Mind
-
-> *Build with intent · Think like a poet · Wander with purpose*
-
-I craft systems that serve, write code that feels, and see every bug as a story waiting to unfold.  
-To me, tech isn't just tools — it's how I translate thought into impact.
-
-
-<!-- Banner placeholder -->
-<!-- ![Banner](link-to-your-banner.png) -->
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vivek-the-creator.readme" alt="Visitor badge"/>
-
-  
-
-</p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
