@@ -29,8 +29,15 @@
   </tr>
 </table>
 
+### ⚙️ &nbsp;GitHub Analytics
 
-	
+<p align="center">
+<a href="https://github.com/Vivek-the-creator">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vivek-the-creator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vivek-the-creator&layout=compact&langs_count=8&theme=algolia&bg_color=000000"/>
+</a>
+</p>
+
 ### 🛠 &nbsp;Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -48,16 +55,6 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Vivek-the-creator">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vivek-the-creator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vivek-the-creator&layout=compact&langs_count=8&theme=algolia&bg_color=000000"/>
-</a>
-</p>
 
 ### 🤝 &nbsp;Connect with Me
 
