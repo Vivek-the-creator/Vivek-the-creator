@@ -12,12 +12,22 @@
 
 
 ---
+<table>
+  <tr>
+    <td width="180px">
+      <img src="ascii_output.svg" width="200px" />
+    </td>
+    <td>
 
-- 💻 Full Stack Developer crafting end-to-end applications
+- 💻 Full Stack Developer crafting end-to-end applications  
 
-- 🤖 Machine Learning Developer turning data into intelligence
+- 🤖 Machine Learning Developer turning data into intelligence  
 
-- 🎯 Focused on performance, scalability, and impact
+- 🎯 Focused on performance, scalability, and impact  
+
+    </td>
+  </tr>
+</table>
 
 
 	
