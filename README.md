@@ -12,20 +12,24 @@
 
 
 ---
-<table>
+<table align="center">
   <tr>
-    <td width="180px">
-      <img src="ascii_output.svg" width="200px" />
+    <td width="160px">
+      <img src="askii.png" width="158px" height="240" />
     </td>
     <td>
 
-- 💻 Full Stack Developer crafting end-to-end applications  
+🧠 Building AI + Web/App systems that solve real human problems
 
-- 🤖 Machine Learning Developer turning data into intelligence  
+💻 Full Stack Developer crafting end-to-end applications  
 
-- 🎯 Focused on performance, scalability, and impact  
+🎯 Focused on performance, scalability, and impact  
 
-    </td>
+⚙️ Architecting scalable ML + Full Stack pipelines
+
+🎨 Clean UI + Deep Models = My Playground 
+
+  </td>
   </tr>
 </table>
 
@@ -38,7 +42,7 @@
 </a>
 </p>
 
-### 🛠 &nbsp;Languages and Tools
+<!--### 🛠 &nbsp;Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -55,12 +59,12 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+-->
 
 ### 🤝 &nbsp;Connect with Me
 
 <p>
-<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/vivek-k-k/"><img src="https://img.shields.io/badge/-Vivek-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vivek-k-k/" target="_blank"><img src="https://img.shields.io/badge/in-Vivek%20K%20K-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=1F1F1F" /></a>
 <a href="mailto:kevivark0789@gmail.com"><img src="https://img.shields.io/badge/-kevivark0789@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/itz.vikshu_07/"><img src="https://img.shields.io/badge/-@itz.vikshu_07-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
