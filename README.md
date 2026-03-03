@@ -1,9 +1,3 @@
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- 🤖 WELCOME TO MY GITHUB PROFILE README (auto-generated)     -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<!-- Vivek K K's GitHub Profile README -->
-
 <h1 align="center">Hey, I'm Vivek K K 👋</h1>
 
 <p align="center">
