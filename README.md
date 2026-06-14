@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-### ⚙️ &nbsp;GitHub Analytics
+### &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Vivek-the-creator">
@@ -55,7 +55,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 -->
 
-### 🤝 &nbsp;Connect with Me
+### &nbsp;Connect with Me
 
 <p>
 <a href="https://www.linkedin.com/in/vivek-k-k/" target="_blank"><img src="https://img.shields.io/badge/in-Vivek%20K%20K-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=1F1F1F" /></a>
